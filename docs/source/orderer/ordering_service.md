@@ -377,7 +377,7 @@ nodes need to know.
 
 When the orderer validation checks have been completed, the transactions are
 ordered, packaged into blocks, consented on, and distributed, as described in
-phase two of our transaction flow.
+phase two of our transaction flow. 
 
 ### Architectural notes
 
